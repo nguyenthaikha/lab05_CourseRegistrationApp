@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lab05_CourseRegistrationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2175F0D8-3AF1-4379-84D4-3BDDD315604E}|lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp.csproj|D:\\lab05_CourseRegistrationApp\\lab05_courseregistrationapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2175F0D8-3AF1-4379-84D4-3BDDD315604E}|lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp.csproj|solutionrelative:lab05_courseregistrationapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2175F0D8-3AF1-4379-84D4-3BDDD315604E}|lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp.csproj|D:\\lab05_CourseRegistrationApp\\lab05_courseregistrationapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2175F0D8-3AF1-4379-84D4-3BDDD315604E}|lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp.csproj|solutionrelative:lab05_courseregistrationapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2175F0D8-3AF1-4379-84D4-3BDDD315604E}|lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp.csproj|d:\\lab05_courseregistrationapp\\lab05_courseregistrationapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2175F0D8-3AF1-4379-84D4-3BDDD315604E}|lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp.csproj|solutionrelative:lab05_courseregistrationapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp\\Form1.cs",
+              "RelativeDocumentMoniker": "lab05_CourseRegistrationApp\\Form1.cs",
+              "ToolTip": "D:\\lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp\\Form1.cs*",
+              "RelativeToolTip": "lab05_CourseRegistrationApp\\Form1.cs*",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAcwLIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:55:13.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp\\Form1.cs",
+              "RelativeDocumentMoniker": "lab05_CourseRegistrationApp\\Form1.cs",
+              "ToolTip": "D:\\lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp\\Form1.cs [Design]*",
+              "RelativeToolTip": "lab05_CourseRegistrationApp\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:21:41.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "lab05_CourseRegistrationApp\\Form1.Designer.cs",
+              "ToolTip": "D:\\lab05_CourseRegistrationApp\\lab05_CourseRegistrationApp\\Form1.Designer.cs",
+              "RelativeToolTip": "lab05_CourseRegistrationApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:19:33.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
